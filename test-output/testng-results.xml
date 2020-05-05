@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="8247" started-at="2020-05-06T01:06:02 IST" finished-at="2020-05-06T01:06:10 IST">
+  <suite name="Suite" duration-ms="7192" started-at="2020-05-06T02:10:27 IST" finished-at="2020-05-06T02:10:35 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="8247" started-at="2020-05-06T01:06:02 IST" finished-at="2020-05-06T01:06:10 IST">
+    <test name="Test" duration-ms="7192" started-at="2020-05-06T02:10:27 IST" finished-at="2020-05-06T02:10:35 IST">
       <class name="Test.Tests">
-        <test-method status="PASS" signature="browser_config(java.lang.String)[pri:0, instance:Test.Tests@6737fd8f]" name="browser_config" is-config="true" duration-ms="7652" started-at="2020-05-06T01:06:02 IST" finished-at="2020-05-06T01:06:10 IST">
+        <test-method status="PASS" signature="browser_config(java.lang.String)[pri:0, instance:Test.Tests@72b6cbcc]" name="browser_config" is-config="true" duration-ms="6561" started-at="2020-05-06T02:10:27 IST" finished-at="2020-05-06T02:10:34 IST">
           <params>
             <param index="0">
               <value>
@@ -18,10 +18,14 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browser_config -->
-        <test-method status="PASS" signature="Login()[pri:0, instance:Test.Tests@6737fd8f]" name="Login" duration-ms="544" started-at="2020-05-06T01:06:10 IST" finished-at="2020-05-06T01:06:10 IST">
+        <test-method status="PASS" signature="Login()[pri:0, instance:Test.Tests@72b6cbcc]" name="Login" duration-ms="463" started-at="2020-05-06T02:10:34 IST" finished-at="2020-05-06T02:10:34 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Test.Tests@72b6cbcc]" name="close" is-config="true" duration-ms="119" started-at="2020-05-06T02:10:34 IST" finished-at="2020-05-06T02:10:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
       </class> <!-- Test.Tests -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
