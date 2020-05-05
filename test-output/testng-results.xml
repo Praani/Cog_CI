@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8247" started-at="2020-05-06T01:06:02 IST" finished-at="2020-05-06T01:06:10 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8247" started-at="2020-05-06T01:06:02 IST" finished-at="2020-05-06T01:06:10 IST">
+      <class name="Test.Tests">
+        <test-method status="PASS" signature="browser_config(java.lang.String)[pri:0, instance:Test.Tests@6737fd8f]" name="browser_config" is-config="true" duration-ms="7652" started-at="2020-05-06T01:06:02 IST" finished-at="2020-05-06T01:06:10 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://ui.cogmento.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_config -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:Test.Tests@6737fd8f]" name="Login" duration-ms="544" started-at="2020-05-06T01:06:10 IST" finished-at="2020-05-06T01:06:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- Test.Tests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
